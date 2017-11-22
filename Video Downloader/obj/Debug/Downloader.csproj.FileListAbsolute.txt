@@ -1,0 +1,22 @@
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Video Downloader.exe.config
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Video Downloader.exe
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Video Downloader.pdb
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\YoutubeExtractor.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\YoutubeExtractor.xml
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Video_Downloader.Form1.resources
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Video_Downloader.Properties.Resources.resources
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Downloader.csproj.GenerateResource.Cache
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Video Downloader.exe
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Video Downloader.pdb
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Interop.WMPLib.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Interop.WMPLib.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Downloader.csproj.ResolveComReference.cache
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\Interop.Shell32.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\Interop.Shell32.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\bin\Debug\AxInterop.Shell32.dll
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Video Downloader\Video Downloader\obj\Debug\AxInterop.Shell32.dll
